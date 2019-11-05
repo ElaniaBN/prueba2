@@ -1,0 +1,6 @@
+ TRIANGULO
+GD                     30 ;esto es un comentario
+REPITE  3  [ AV        100  GD       120     ] 
+GI       30 ;esto es un comentario
+HAZ "GRADOS 45
+FIN 
